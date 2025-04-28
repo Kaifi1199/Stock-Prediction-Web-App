@@ -23,9 +23,9 @@ This app provides users with interactive stock charts, technical indicators, and
 
 **Streamlit** — Web app framework
 
-**yfinance **— Stock market data retrieval
+**yfinance**— Stock market data retrieval
 
-**Plotly **— Interactive visualizations
+**Plotly**— Interactive visualizations
 
 **Statsmodels** — ARIMA model for time series forecasting
 
