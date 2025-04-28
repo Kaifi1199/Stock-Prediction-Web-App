@@ -1,9 +1,9 @@
-**📈 Stock Prediction Web Application**
+# 📈 Stock Prediction Web Application
 
 A web-based application for stock analysis and prediction, built with Streamlit, Plotly, yfinance, and ARIMA modeling.
 This app provides users with interactive stock charts, technical indicators, and up to 4 years of stock price forecasting!
 
-**🚀 Features**
+## 🚀 Features
 
 **📊 Stock Data Retrieval** — Fetches up to 10 years of historical stock data using the yfinance API.
 
@@ -17,7 +17,7 @@ This app provides users with interactive stock charts, technical indicators, and
 
 
 
-**🛠 Technologies Used**
+## 🛠 Technologies Used
 
 **Python**
 
@@ -31,7 +31,7 @@ This app provides users with interactive stock charts, technical indicators, and
 
 **Pandas and NumPy** — Data manipulation and processing
 
-**🧠 Project Methodology**
+## 🧠 Project Methodology
 
 **Data Retrieval:** Fetch historical stock data (open, high, low, close, volume) using yfinance.
 
@@ -41,7 +41,7 @@ This app provides users with interactive stock charts, technical indicators, and
 
 **Prediction:** Forecast future stock prices monthly for the selected years.
 
-**Visualization:**
+## Visualization:
 
 Candlestick chart (historical)
 
@@ -64,7 +64,7 @@ Daily Change
 Current Trading Volume
 
 
-**📋 How to Run Locally**
+## 📋 How to Run Locally
 
 **1. Clone the repository:**
 
@@ -80,7 +80,7 @@ Current Trading Volume
         streamlit run main.py
 
 
-**📄 License**
+## 📄 License
 
 This project is for educational purposes.
 
