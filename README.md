@@ -68,7 +68,7 @@ Current Trading Volume
 
 **1. Clone the repository:**
 
-        git clone https://github.com/yourusername/stock-prediction-web-app.git
+        git clone https://github.com/Kaifi1199/stock-prediction-web-app.git
         cd stock-prediction-web-app
 
 **2. Install dependencies:**
