@@ -65,6 +65,7 @@ Current Trading Volume
 
 
 **📋 How to Run Locally**
+
 **1. Clone the repository:**
 
         git clone https://github.com/yourusername/stock-prediction-web-app.git
